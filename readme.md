@@ -15,3 +15,7 @@ Course code|Title
 ENGG2430|Probability and Statistics for Engineers
 CSCI2100|Data Structures
 CSCI3250|Computers and Society
+
+## Images
+![img1](https://github.com/csci3250-2019/student-1155110269/blob/master/img1.png "img1")
+![img2](https://github.com/csci3250-2019/student-1155110269/blob/master/img2.png "img2")
